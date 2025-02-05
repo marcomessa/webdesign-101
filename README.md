@@ -27,25 +27,35 @@
 ## Fake entities
 ### Sushi Dream
 Ambito lavorativo: Ristorante giapponese
+
 Descrizione: Un ristorante che offre un viaggio culinario attraverso i sapori autentici del Giappone, con piatti di sushi preparati da chef esperti.
+
 Claim: Gustati il Giappone, un boccone alla volta
 
 ### Rock'n'Rolld
 Ambito lavorativo: Cantante rock
+
 Descrizione: Una nonnina che a 70 anni per contrastare la solitudine ha deciso di diventare una rockstar.
+
 Claim: Non é mai troppo tardi
 
 ### Fitness Follia
 Ambito lavorativo: Palestra
+
 Descrizione: Una palestra dove il fitness viene preso molto seriamente".
+
 Claim: Allenati soffrendo
 
 ### Pixel Painter
 Ambito lavorativo: Pittore digitale
+
 Descrizione: Un artista che ha rivoluzionato il mondo dell'arte utilizzando solo software digitali per creare opere d'arte che sembrano uscire direttamente da un videogioco.
+
 Claim: Pixel di tradizione
 
 ### Libri Lunari
 Ambito lavorativo: Libreria antiquaria
+
 Descrizione: Una libreria specializzata in volumi antichi e rari, dove ogni libro ha una storia e i clienti possono perdersi in mondi dimenticati.
+
 Claim: Lost in page
